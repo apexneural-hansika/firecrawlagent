@@ -110,8 +110,6 @@ For detailed execution instructions, see [EXECUTION_GUIDE.md](EXECUTION_GUIDE.md
 
 The Corrective RAG workflow consists of several key steps:
 
-![Workflow Architecture](assets/animation.gif)
-
 - **Start Event**: Initializes the workflow with user query
 - **Retrieve**: Retrieves relevant documents from vector store
 - **Web Search**: Performs web searches using FireCrawl when needed
